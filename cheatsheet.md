@@ -11,5 +11,5 @@
 11. git reset [options]
 12. git merge
 13. git pull --rebase
-14. git reset --hard
+14. git reset --rebase
 15. git reset --soft
