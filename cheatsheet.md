@@ -8,5 +8,8 @@
 8. git pull -> tarik file dari remote ke local
 9. git push -> dorong file dari local ke remote
 10. git rebase
-11. git reset --hard
-12. git reset --soft
+11. git reset [options]
+12. git merge
+13. git pull --rebase
+14. git reset --hard
+15. git reset --soft
